@@ -1,8 +1,7 @@
-# Taller Sesión 1: IA Generativa
-
+# Taller Sesión 1: Ingeniería de aplicaciones generativas
 Este repositorio contiene el notebook de la actividad práctica del curso **Ingeniería de aplicaciones generativas**.
 
-## Datos del estudiante
+## Datos
 - **Autor:** Alexander Chavez Cabana
 - **Curso:** Ingeniería de aplicaciones generativas - Angelo Castillo
 - **Fecha de entrega:** 31 de enero de 2026

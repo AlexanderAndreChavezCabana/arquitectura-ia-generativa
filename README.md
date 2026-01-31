@@ -37,4 +37,3 @@ Para ejecutar el notebook, asegúrate de tener las dependencias instaladas y acc
 ## Autor
 - Alexander Chavez Cabana
 - Curso: Ingeniería de aplicaciones generativas
-- Fecha: 31 de enero de 2026
